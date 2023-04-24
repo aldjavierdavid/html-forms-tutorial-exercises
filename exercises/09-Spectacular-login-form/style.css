@@ -1,0 +1,13 @@
+body {
+    background-color: #072657;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+}
+
+h1 {
+    font-family:"Lato", sans-serif;
+    color: white;
+    font-weight: bold;
+}
